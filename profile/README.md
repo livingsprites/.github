@@ -1,12 +1,9 @@
-## Hi there 👋
+![Open Source at Microsoft](../images/living-github-banner.png) 
 
-<!--
+## About Us
 
-**Here are some ideas to get you started:**
+An organization built on passion, imagination, and collaboration is Living Sprite. By using technology, design, and inspiration to bring research to life, we aim to turns exciting ideas into reality.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+##
+
+[ 🎓 ] Educational Purposes Only.
