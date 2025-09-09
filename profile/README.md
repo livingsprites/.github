@@ -1,4 +1,4 @@
-![Open Source at Microsoft](../images/living-github-banner.png) 
+![Open Source at Living Sprites](../images/living-github-banner.png) 
 
 ## About Us
 
